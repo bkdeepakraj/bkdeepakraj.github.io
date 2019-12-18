@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="21.5" viewBox="0 0 11 21.5">
+  <g id="arrow" transform="translate(-884.5 -548)">
+    <g id="arrow-2" data-name="arrow">
+      <g id="arrow-3" data-name="arrow">
+        <path id="Polygon_1" data-name="Polygon 1" d="M5,0l5,7H0Z" transform="translate(895 567) rotate(180)" fill="#fff"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="4" height="12" transform="translate(888 548)" fill="#fff"/>
+      </g>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="11" transform="translate(884.5 568.5)" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>
