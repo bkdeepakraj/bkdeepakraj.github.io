@@ -9,6 +9,7 @@ body{
 	background-color: #EEF9FF; 
 	font-size: 1.125em;
 	font-weight: 300;
+	background-color: #f1f1f1;
 }
 
 
@@ -22,7 +23,15 @@ html {
 	text-decoration-line: underline; 
 }
 
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {color:#555;}
 
+.navbar-dark .navbar-nav .nav-link{color:#888;}
+
+
+.btn-width{
+	
+	width: 40%;	
+}
 
 
 .display-3 {
@@ -40,7 +49,7 @@ html {
 
 
 .dropdown-item:hover{
-	background-color: #ddd;
+	background-color: #eee;
 }
 
 
@@ -69,6 +78,12 @@ h1, h2, h3, h4, h5, h6, .header{
 	font-family: 'Roboto Slab', serif; 
 	font-weight: normal;
 }
+
+.graycolor{
+	color:#656565;
+}
+
+
 
 .display-5{
 
@@ -164,7 +179,7 @@ h3 {
 
 
 .bg-dark {
-	background-color: #10214e !important;
+	background-color: #ececec !important;
 }
 
 
@@ -172,14 +187,9 @@ h3 {
 
 .jumbotron {
 
-	background: #0984e3 url('../images/banner_bg.png') no-repeat center;
+	background: #f1f1f1 no-repeat center;
     margin-bottom: 0;
     padding:0 inherit;
-
-background: url('../images/banner_bg.png') no-repeat center, -moz-linear-gradient(45deg, #631dd3 0%, #16a0e0 50%, #631dd3 100%); /* FF3.6-15 */
-background: url('../images/banner_bg.png') no-repeat center, -webkit-linear-gradient(45deg, #631dd3 0%,#16a0e0 50%,#631dd3 100%); /* Chrome10-25,Safari5.1-6  */
-background: url('../images/banner_bg.png') no-repeat center, linear-gradient(45deg, #631dd3 0%,#16a0e0 50%,#631dd3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    
 
 }
 
@@ -199,19 +209,20 @@ background: url('../images/banner_bg.png') no-repeat center, linear-gradient(45d
 section.jumbo  div.jumbotron  div.container  p.lead  a {
     
     text-decoration: none;
-    color: #fff;
+    color: #656565;
 }
 
 
 .jumbotron .herotxt {
-	color: #fff;
+	color: #656565;
 	min-height: 300px;
-	text-shadow: 1px 1px 50px #000;
+
 }
 
 .jumbotron .herotxt1 {
-	color: #fff;
-	text-shadow: 1px 1px 50px #000;
+	color: #656565;
+	height: 300px;
+
 }
 
 
@@ -241,14 +252,14 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 .home-brand{
 
 	font-size: 1.25em; 
-	color: #065566; 
+	color: #656565; 
 	margin-right: 50px;
 }
 
 .home-brand:visited, .home-brand:hover, .home-brand:active, .home-brand:link{
 
 	text-decoration: none;
-	 color: #fff;
+	 color: #fd5104;
 
 	}
 
@@ -260,8 +271,8 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 
 .hr {
 
-	height: 2px;
-	background-color: #366a9b;
+	height: 1px;
+	background-color: #919191;
 	display: block; 
 	margin: 20px 0 30px;
 }
@@ -711,8 +722,7 @@ div.link > a:hover {
 .nav-link {
          padding: 5px 20px;
          margin: 0 15px;
-         color: #fff;
-         border-left: 2px solid #00A6CA;
+         color: #919191;
 }
 
 
@@ -720,9 +730,8 @@ div.link > a:hover {
 .nav-link.active {
          padding: 5px 20px;
          margin: 0 15px;
-         background-color: #1475DD;
-         color: #fff;
-         border-left: 2px solid #00A6CA;
+         background-color: #e3e3e3;
+         color: #919191;
 }
 
 
