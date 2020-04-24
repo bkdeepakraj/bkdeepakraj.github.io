@@ -5,11 +5,9 @@
 
 body{
 
-	font-family: 'Fira Sans', sans-serif; 
-	background-color: #EEF9FF; 
+	font-family: 'Montserrat', sans-serif; 
 	font-size: 1.125em;
 	font-weight: 300;
-	background-color: #f1f1f1;
 }
 
 
@@ -25,7 +23,7 @@ html {
 
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {color:#555;}
 
-.navbar-dark .navbar-nav .nav-link{color:#888;}
+.navbar-dark .navbar-nav .nav-link{color:#000; font-weight: bold;}
 
 
 .btn-width{
@@ -75,8 +73,8 @@ html {
 
 h1, h2, h3, h4, h5, h6, .header{
 	
-	font-family: 'Roboto Slab', serif; 
-	font-weight: normal;
+	font-family: 'Montserrat', serif; 
+	font-weight: 500;
 }
 
 .graycolor{
@@ -186,30 +184,124 @@ h3 {
 
 
 .jumbotron {
-
-	background: #f1f1f1 no-repeat center;
+	background-color: #fff;
     margin-bottom: 0;
     padding:0 inherit;
+	height: 50%;
 
 }
 
 
-/*
-
-.jumbotron {
-
-	background: #1475DD;
-    margin-bottom: 0;
-    padding:0 inherit;
+.lnheight {
+	
+	line-height: 1.5;
 }
 
-*/
+.lnheight2 {
+	
+	line-height: 1.75;
+}
+
+
+.linksweight{
+	text-decoration: underline;
+	font-weight: 700;
+}
+
+
+
+.bg1 {
+
+  background-image: url("../images/01_IDeclare_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg2 {
+
+  background-image: url("../images/02_uslbm_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg3 {
+
+  background-image: url("../images/03_manpower_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg4 {
+
+  background-image: url("../images/04_experis_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg5 {
+
+  background-image: url("../images/05_Campaign_studio_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg6 {
+
+  background-image: url("../images/06_Coffee_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+
+.bg7 {
+
+  background-image: url("../images/07_blog.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bg8 {
+
+  background-image: url("../images/08_art.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+.bgcolor{
+	
+	color: #fff;
+	font-weight: 600;
+}
+
+.bgbox {
+	
+	border: 1px solid #fff;
+	padding: 10px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+
+
+.jumbo {
+	
+	height: 50%
+}
+
 
 
 section.jumbo  div.jumbotron  div.container  p.lead  a {
     
     text-decoration: none;
-    color: #656565;
+    color: #000;
 }
 
 
@@ -231,6 +323,10 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
   animation-iteration-count: 1;
 }
 
+
+.fontmedium{
+	font-weight: 500;
+}
 
 
 
@@ -259,7 +355,8 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 .home-brand:visited, .home-brand:hover, .home-brand:active, .home-brand:link{
 
 	text-decoration: none;
-	 color: #fd5104;
+	 color: #000;
+	font-weight: bold;
 
 	}
 
@@ -321,7 +418,7 @@ background: linear-gradient(to bottom, #1475dd 0%,#631dd3 100%); /* W3C, IE10+, 
 .btn-primary {
 	
 border-radius: 10em;	
-background: #EC4A01;
+background: #1E6EE6;
 font-size: 1.25em;
 border: 2px solid #fff;	
 }
@@ -329,7 +426,7 @@ border: 2px solid #fff;
 .btn-primary:hover {
 	
 border-radius: 10em;	
-background: #fd5104; 
+background: #0855C9; 
 color:#fff;
 border: 2px solid #fff;	
 	
@@ -555,8 +652,10 @@ div.link > a:hover {
 
 @media (min-width: 576px){
 
-  .jumbotron {
-    padding: 1em 0;
+
+	
+	.lead {
+    font-size: 1.2em;
 
   }
 
@@ -573,7 +672,7 @@ div.link > a:hover {
     
 
   .lead {
-    font-size: 1.5em;
+    font-size: 1.2em;
 
   }
 
@@ -602,7 +701,7 @@ div.link > a:hover {
     
     
  .lead {
-    font-size: 1.5em;
+    font-size: 1.2em;
 
   }
 
