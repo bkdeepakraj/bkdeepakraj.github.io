@@ -42,7 +42,7 @@ html {
 	
 	border-radius: 6px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
-	padding: 10px;
+	
 }
 
 
@@ -186,7 +186,7 @@ h3 {
 .jumbotron {
 	background-color: #fff;
     margin-bottom: 0;
-    padding:0 inherit;
+    padding:0;
 	height: 50%;
 
 }
@@ -642,6 +642,72 @@ div.link > a:hover {
 .arrowlink {
 	background: #7FAF48 url('../images/arrow_link.png') no-repeat left 15px top 20px;
 } 
+
+
+
+
+.ideclare{
+	
+	background-color: #8AC4ED;
+	background-image: url(../images/id_1.png); 
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+}
+
+
+
+
+.hema{
+	background-color: #CEA1EB;
+	background-image: url(../images/chatbot_hema.png);
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+}
+
+
+
+.uslbm{
+	
+	background-color: #9ED6E8;
+	background-image: url(../images/uslbm_banner.png); 
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+
+}
+
+
+.manpower {
+	
+	background-color: #93a9b8;
+	background-image: url(../images/manpower_banner.png); 
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+
+}
+
+
+.experis {
+	
+	background-color: #C6DAE1;
+	background-image: url(../images/experis_banner.png);  
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+}
 
 
 
