@@ -6,8 +6,9 @@
 body{
 
 	font-family: 'Montserrat', sans-serif; 
-	font-size: 1.125em;
-	font-weight: 300;
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1.7em;
 }
 
 
@@ -34,7 +35,20 @@ html {
 
 .display-3 {
 	
-	font-size:2.75em;
+	font-size:2.5em;
+}
+
+.display-7 {
+	
+	font-size:2em;
+	font-weight: bold;
+}
+
+
+.display-8 {
+	
+	font-size:1.75em;
+	font-weight: bold;
 }
 
 
@@ -80,7 +94,6 @@ h1, h2, h3, h4, h5, h6, .header{
 .graycolor{
 	color:#656565;
 }
-
 
 
 .display-5{
@@ -215,7 +228,6 @@ h3 {
   background-image: url("../images/01_IDeclare_bg.jpg");
   background-repeat: no-repeat;
   background-color: #cccccc;
-
 }
 
 .bg2 {
@@ -300,7 +312,7 @@ h3 {
 
 section.jumbo  div.jumbotron  div.container  p.lead  a {
     
-    text-decoration: none;
+    text-decoration: underline;
     color: #000;
 }
 
@@ -313,8 +325,7 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 
 .jumbotron .herotxt1 {
 	color: #656565;
-	height: 300px;
-
+	height: 400px;
 }
 
 
@@ -417,7 +428,7 @@ background: linear-gradient(to bottom, #1475dd 0%,#631dd3 100%); /* W3C, IE10+, 
 
 .btn-primary {
 	
-border-radius: 10em;	
+border-radius: .5em;	
 background: #1E6EE6;
 font-size: 1.25em;
 border: 2px solid #fff;	
@@ -425,7 +436,7 @@ border: 2px solid #fff;
 
 .btn-primary:hover {
 	
-border-radius: 10em;	
+border-radius: .5em;	
 background: #0855C9; 
 color:#fff;
 border: 2px solid #fff;	
@@ -435,7 +446,7 @@ border: 2px solid #fff;
 
 .btn-secondary {
 	
-border-radius: 10em;	
+border-radius: .5em;	
 background: #729d40; 
 font-size: 1.15em;
 border:2px solid #466225;
@@ -445,7 +456,7 @@ border:2px solid #466225;
 
 .btn-secondary:hover {
 	
-border-radius: 4em;	
+border-radius: .5em;	
 background: #7faf48; 
 font-size: 1.15em;
 border:2px solid #466225;
@@ -708,6 +719,31 @@ div.link > a:hover {
 	height: 450px;
 	
 }
+
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #073495; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 10px; /* Some padding */
+  border-radius: 6px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+
+
 
 
 
