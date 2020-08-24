@@ -221,6 +221,14 @@ h3 {
 	font-weight: 700;
 }
 
+.homebg {
+
+	background: rgb(208,233,250);
+	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 75% 20%; 
+  }
 
 
 .bg1 {
@@ -795,6 +803,11 @@ div.link > a:hover {
 }
 
 
+
+
+
+
+
 @media (min-width: 576px) and (max-width: 768px) {
 	
   .display-3 {
@@ -821,7 +834,14 @@ div.link > a:hover {
 
 */
 
+.homebg {
 
+	background: rgb(208,233,250);
+	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 75% 20%; 
+  }
 
 }
 
@@ -838,7 +858,14 @@ div.link > a:hover {
 
 @media (max-width: 768px) {
 
+	.homebg {
 
+		background: rgb(208,233,250);
+		background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: 75% 20%; 
+	  }
 
 }
 
@@ -856,7 +883,14 @@ div.link > a:hover {
 
 */
 
+.homebg {
 
+	background: rgb(208,233,250);
+	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 75% 20%; 
+  }
 
 
 }
@@ -885,21 +919,38 @@ div.link > a:hover {
 	width: 60%;
 }
 
+
+.homebg {
+
+	background: rgb(208,233,250);
+	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 75% 20%; 
+  }
+
 }
 
 
 @media (min-width: 992px) and (max-width: 1279.99px) {
 
 
- .display-3 {
-    font-size: 1.75em;
+
+
+  .homebg {
+
+	background: rgb(208,233,250);
+	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 90% 20%; 
   }
 
 }
 
 
 
-@media (min-width: 1201px) {	
+@media (min-width: 1279.99px) and (max-width: 1365.99px) {	
 
 	/*
 
@@ -909,14 +960,44 @@ div.link > a:hover {
 
 */
 
+.homebg {
 
+	background: rgb(208,233,250);
+	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 95% 25%; 
+  }
 
 
 }
 
 
 
-@media (min-width: 1201px) and (max-width: 3000px) 
+@media (min-width: 1365.99px) and (max-width: 1499.99px) {	
+
+	/*
+
+	.jumbotron {
+	background: #1475DD url('../images/hero_xl.png') no-repeat center;
+}
+
+*/
+
+.homebg {
+
+	background: rgb(208,233,250);
+	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 90% 50%; 
+  }
+
+
+}
+
+
+@media (min-width: 1501px) and (max-width: 3000px) 
 
  { 
 
@@ -935,6 +1016,14 @@ div.link > a:hover {
          color: #919191;
 }
 
+.homebg {
+
+	background: rgb(208,233,250);
+	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 75% 20%; 
+  }
 
 
 }
