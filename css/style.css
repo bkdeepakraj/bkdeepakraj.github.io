@@ -5,8 +5,8 @@
 
 body{
 
-	font-family: 'Montserrat', sans-serif; 
-	font-size: 1em;
+	font-family: 'Merriweather', sans-serif; 
+	font-size: 1.2em;
 	font-weight: 400;
 	line-height: 1.7em;
 }
@@ -87,7 +87,7 @@ html {
 
 h1, h2, h3, h4, h5, h6, .header{
 	
-	font-family: 'Montserrat', serif; 
+	font-family: 'Lato', serif; 
 	font-weight: 500;
 }
 
@@ -223,7 +223,7 @@ h3 {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -360,6 +360,7 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 .lead {
 
 	font-size: 1.5em;
+	font-family: 'Merriweather', sans-serif; 	
 
 }
 
@@ -771,7 +772,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -796,7 +797,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -851,7 +852,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -874,7 +875,7 @@ div.link > a:hover {
 
 	.homebg {
 
-		background: rgb(208,233,250);
+		background: #fff;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: 75% 20%; 
@@ -898,7 +899,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -934,7 +935,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -950,7 +951,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -973,7 +974,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -997,7 +998,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -1029,7 +1030,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: rgb(208,233,250);
+	background: #fff;
 	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
