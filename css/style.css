@@ -6,7 +6,7 @@
 body{
 
 	font-family: 'Merriweather', sans-serif; 
-	font-size: 1.2em;
+	font-size: 1.1em;
 	font-weight: 400;
 	line-height: 1.7em;
 }
@@ -80,8 +80,8 @@ html {
 
 
 .heading-brown {
-	color: #954D00;
-	font-size: 1.7em;
+	color: #d35400;
+	font-size: 1.4em;
 }
 
 
@@ -115,7 +115,7 @@ h2{
 
 
 h3 {
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-weight: normal;
 }
 
@@ -193,7 +193,9 @@ h3 {
 	background-color: #ececec !important;
 }
 
-
+.navbar-light .navbar-nav .nav-link.active {
+	color: #d35400;
+}
 
 
 .jumbotron {
@@ -204,6 +206,11 @@ h3 {
 
 }
 
+
+.bgskills{
+	
+	background-color: #8FCDEE;
+}
 
 .lnheight {
 	
@@ -309,6 +316,11 @@ h3 {
 	display: inline-block;
 }
 
+
+.colorheader{
+	color: #d35400;
+	font-weight: 900;
+}
 
 
 .jumbo {
@@ -437,15 +449,15 @@ background: linear-gradient(to bottom, #1475dd 0%,#631dd3 100%); /* W3C, IE10+, 
 
 .btn-primary {
 	
-border-radius: .5em;	
+border-radius: .25em;	
 background: #1E6EE6;
-font-size: 1.25em;
+font-size: 1.0em;
 border: 2px solid #fff;	
 }
 
 .btn-primary:hover {
 	
-border-radius: .5em;	
+border-radius: .25em;	
 background: #0855C9; 
 color:#fff;
 border: 2px solid #fff;	
@@ -1024,7 +1036,7 @@ div.link > a:hover {
 .nav-link.active {
          padding: 5px 20px;
          margin: 0 15px;
-         background-color: #e3e3e3;
+         background-color: #fff;
          color: #919191;
 }
 
