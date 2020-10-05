@@ -237,6 +237,13 @@ h3 {
 	background-position: 75% 20%; 
   }
 
+.bg0 {
+
+  background-image: url("../images/00_ceasefire_bg.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+}
+
 
 .bg1 {
 
@@ -566,6 +573,10 @@ background: #21c8ce; /* Old browsers */
 }
 
 
+.textwhite{
+	color: #fff;
+}
+
 .mycolorWhite{
 
 	background-color: #fff; 
@@ -674,6 +685,18 @@ div.link > a:hover {
 .arrowlink {
 	background: #7FAF48 url('../images/arrow_link.png') no-repeat left 15px top 20px;
 } 
+
+
+.ceasefire{
+	
+	background-color: #e7f6f9;
+	background-image: url(../images/ceasefire_banner.png); 
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
+	height: 450px;
+	
+}
 
 
 
