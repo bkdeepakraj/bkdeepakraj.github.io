@@ -689,7 +689,7 @@ div.link > a:hover {
 
 .ceasefire{
 	
-	background-color: #e7f6f9;
+	background-color: #E7F6F9;
 	background-image: url(../images/ceasefire_banner.png); 
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -703,7 +703,7 @@ div.link > a:hover {
 
 .ideclare{
 	
-	background-color: #8AC4ED;
+	background-color: #E7F6F9;
 	background-image: url(../images/id_1.png); 
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -716,7 +716,7 @@ div.link > a:hover {
 
 
 .hema{
-	background-color: #CEA1EB;
+	background-color: #E7F6F9;
 	background-image: url(../images/chatbot_hema.png);
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -729,7 +729,7 @@ div.link > a:hover {
 
 .uslbm{
 	
-	background-color: #9ED6E8;
+	background-color: #E7F6F9;
 	background-image: url(../images/uslbm_banner.png); 
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -742,7 +742,7 @@ div.link > a:hover {
 
 .manpower {
 	
-	background-color: #93a9b8;
+	background-color: #E7F6F9;
 	background-image: url(../images/manpower_banner.png); 
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -755,13 +755,18 @@ div.link > a:hover {
 
 .experis {
 	
-	background-color: #C6DAE1;
+	background-color: #E7F6F9;
 	background-image: url(../images/experis_banner.png);  
 	background-size:contain;
 	background-repeat: no-repeat;
 	background-position:center center;
 	height: 450px;
 	
+}
+
+
+.homebannercolor{
+	background-color: #E7F6F9;
 }
 
 
