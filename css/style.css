@@ -9,6 +9,7 @@ body{
 	font-size: 1.1em;
 	font-weight: 400;
 	line-height: 1.7em;
+	background-color: #FBFBFB;
 }
 
 
@@ -80,7 +81,7 @@ html {
 
 
 .heading-brown {
-	color: #d35400;
+	color: #2980b9;
 	font-size: 1.4em;
 }
 
@@ -230,8 +231,8 @@ h3 {
 
 .homebg {
 
-	background: #fff;
-	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background: #FBFBFB;
+	background: url("../images/home_bg.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -325,7 +326,7 @@ h3 {
 
 
 .colorheader{
-	color: #d35400;
+	color: #2980b9;
 	font-weight: 900;
 }
 
@@ -812,7 +813,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: #fff;
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -837,7 +838,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: #fff;
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -892,7 +893,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -915,7 +916,7 @@ div.link > a:hover {
 
 	.homebg {
 
-		background: #fff;
+		background: #FBFBFB;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: 75% 20%; 
@@ -939,7 +940,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -975,7 +976,7 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
@@ -991,8 +992,7 @@ div.link > a:hover {
 
   .homebg {
 
-	background: #fff;
-	background: linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background: #FBFBFB;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 90% 20%; 
@@ -1014,8 +1014,8 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
-	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background: #FBFBFB;
+	background: url("../images/home_bg.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 95% 25%; 
@@ -1038,8 +1038,8 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
-	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background: #FBFBFB;
+	background: url("../images/home_bg.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 90% 50%; 
@@ -1070,8 +1070,8 @@ div.link > a:hover {
 
 .homebg {
 
-	background: #fff;
-	background: url("../images/home_bg.png"), linear-gradient(90deg, rgba(208,233,250,1) 0%, rgba(255,255,255,1) 50%, rgba(208,233,250,1) 100%);
+	background: #FBFBFB;
+	background: url("../images/home_bg.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 75% 20%; 
