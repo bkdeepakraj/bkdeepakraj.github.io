@@ -56,7 +56,7 @@ html {
 .roundedCorner {
 	
 	border-radius: 6px;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.10), 0 3px 10px 0 rgba(0, 0, 0, 0.10);
 	
 }
 
@@ -693,6 +693,11 @@ div.link > a:hover {
 .arrowlink {
 	background: #7FAF48 url('../images/arrow_link.png') no-repeat left 15px top 20px;
 } 
+
+.lightblu{
+	
+	background-color: #E7F6F9;
+}
 
 
 .ceasefire{
