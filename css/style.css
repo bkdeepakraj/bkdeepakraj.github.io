@@ -233,10 +233,7 @@ h3 {
 .homebg {
 
 	background: #FBFBFB;
-	background: url("../images/home_bg.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
+
   }
 
 .bg0 {
@@ -306,6 +303,15 @@ h3 {
 .bg8 {
 
   background-image: url("../images/08_art.jpg");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+
+.bg9 {
+
+  background-image: url("../images/09_tuts.jpg");
   background-repeat: no-repeat;
   background-color: #cccccc;
 
@@ -812,13 +818,6 @@ div.link > a:hover {
 
   }
 
-  .homebg {
-
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 }
 
@@ -837,13 +836,7 @@ div.link > a:hover {
 
   }
 
-  .homebg {
 
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 /*
 
@@ -892,13 +885,7 @@ div.link > a:hover {
 
 */
 
-.homebg {
 
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 }
 
@@ -915,13 +902,6 @@ div.link > a:hover {
 
 @media (max-width: 768px) {
 
-	.homebg {
-
-		background: #FBFBFB;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-position: 75% 20%; 
-	  }
 
 }
 
@@ -939,13 +919,6 @@ div.link > a:hover {
 
 */
 
-.homebg {
-
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 
 }
@@ -975,13 +948,7 @@ div.link > a:hover {
 }
 
 
-.homebg {
 
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 }
 
@@ -991,13 +958,6 @@ div.link > a:hover {
 
 
 
-  .homebg {
-
-	background: #FBFBFB;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 90% 20%; 
-  }
 
 }
 
@@ -1013,14 +973,7 @@ div.link > a:hover {
 
 */
 
-.homebg {
 
-	background: #FBFBFB;
-	background: url("../images/home_bg.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 95% 25%; 
-  }
 
 
 }
@@ -1037,14 +990,7 @@ div.link > a:hover {
 
 */
 
-.homebg {
 
-	background: #FBFBFB;
-	background: url("../images/home_bg.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 90% 50%; 
-  }
 
 
 }
@@ -1069,14 +1015,7 @@ div.link > a:hover {
          color: #919191;
 }
 
-.homebg {
 
-	background: #FBFBFB;
-	background: url("../images/home_bg.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: 75% 20%; 
-  }
 
 
 }
