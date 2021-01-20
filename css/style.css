@@ -6,7 +6,7 @@
 body{
 
 	font-family: 'Merriweather', sans-serif; 
-	font-size: 1.1em;
+	font-size: 1em;
 	font-weight: 400;
 	line-height: 1.7em;
 	background-color: #FBFBFB;
@@ -317,6 +317,19 @@ h3 {
 
 }
 
+
+.bg10 {
+
+  background-image: url("../images/04_indgene_bg.png");
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+
+}
+
+
+
+
+
 .bgcolor{
 	
 	color: #fff;
@@ -409,7 +422,7 @@ section.jumbo  div.jumbotron  div.container  p.lead  a {
 
 .nav-link.active {
 
-	font-weight: normal;
+	font-weight: bold;
 }
 
 
@@ -700,14 +713,23 @@ div.link > a:hover {
 }
 
 
-.ceasefire{
+
+.indegene{
 	
 	background-color: #E7F6F9;
-	background-image: url(../images/ceasefire_banner.png); 
 	background-size:contain;
 	background-repeat: no-repeat;
 	background-position:center center;
-	height: 450px;
+	
+}
+
+
+.ceasefire{
+	
+	background-color: #E7F6F9;
+	background-size:contain;
+	background-repeat: no-repeat;
+	background-position:center center;
 	
 }
 
