@@ -815,6 +815,7 @@ h1.colorheader p span.cursor.typing {
   background-color: #f7ce5b;
   color: #000;
   padding: 10px;
+  font-weight: bold;
 }
 
 /* media Query */
