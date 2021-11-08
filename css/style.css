@@ -817,6 +817,7 @@ h1.colorheader p span.cursor.typing {
   padding: 10px;
   font-weight: normal;
   text-align: center;
+  font-size: 16px;
 }
 
 /* media Query */
