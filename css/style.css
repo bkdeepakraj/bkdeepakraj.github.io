@@ -820,6 +820,11 @@ h1.colorheader p span.cursor.typing {
   font-size: 16px;
 }
 
+.valignmid {
+  display: flex;
+  align-items: center;
+}
+
 /* media Query */
 
 @media (min-width: 576px) {
