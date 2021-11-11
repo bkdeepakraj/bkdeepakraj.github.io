@@ -825,9 +825,14 @@ h1.colorheader p span.cursor.typing {
   align-items: center;
 }
 
+ol {
+  margin: 0;
+  padding: 0;
+}
+
 li {
   margin: 10px 0;
-  padding: 10px 0;
+  padding: 5px 0;
 }
 
 /* media Query */
