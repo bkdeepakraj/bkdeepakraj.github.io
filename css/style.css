@@ -826,7 +826,7 @@ h1.colorheader p span.cursor.typing {
 }
 
 .process li {
-  margin: 0 0 0 15px;
+  margin: 0 0 0 -20px;
   padding: 0;
 }
 
