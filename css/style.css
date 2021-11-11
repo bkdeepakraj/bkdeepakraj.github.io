@@ -826,7 +826,7 @@ h1.colorheader p span.cursor.typing {
 }
 
 ol {
-  margin: 0;
+  margin: 0 0 0 10px;
   padding: 0;
 }
 
