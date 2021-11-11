@@ -825,7 +825,7 @@ h1.colorheader p span.cursor.typing {
   align-items: center;
 }
 
-.process li {
+ol.process li {
   margin: 0 0 0 -20px;
   padding: 0;
 }
