@@ -825,11 +825,6 @@ h1.colorheader p span.cursor.typing {
   align-items: center;
 }
 
-li {
-  margin: 0 0 0 15px;
-  padding: 0;
-}
-
 /* media Query */
 
 @media (min-width: 576px) {
