@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .myskill_bg, .mywork_bg, .courses_bg {
-    background-image: url(../images/pattern1.png);
+    /* background-image: url(../images/pattern1.png); */
     background-color: #e4f5fc;
     height: 160px;
     background-position: 50% 50%;
@@ -371,9 +371,12 @@ main {
     color:#417596;
 }
 
+
+/* url(../images/pattern1.png) */
+
 .paypalLogo, .wiproLogo, .mphasisLogo, .capstoneLogo{
 
-    background-image: url(../images/paypal_logo.png), url(../images/pattern1.png);
+    background-image: url(../images/paypal_logo.png) ; 
     background-color: #eaf8fd;
     background-position:1300px 14px, top center;
     background-repeat: no-repeat, repeat-x;
@@ -382,26 +385,27 @@ main {
 }
 
 .wiproLogo{
-    background-image: url(../images/wipro_logo.png), url(../images/pattern1.png);
+    background-image: url(../images/wipro_logo.png);
     background-size: 240px 155px, 1920px 301px;
     background-position:1300px -18px, top center;
 }
 
 .mphasisLogo{
-    background-image: url(../images/mphasis_logo.png), url(../images/pattern1.png);
+    background-image: url(../images/mphasis_logo.png);
     background-size: 271px 114px, 1920px 301px;
     background-position:1300px 6px, top center;
 }
 
 .capstoneLogo{
 
-    background-image: url(../images/Capstone_logo.png), url(../images/pattern1.png);
+    background-image: url(../images/Capstone_logo.png);
     background-size: 230px 37px, 1920px 301px;
     background-position:1300px 40px, top center;
 }
 
 .artbg{
-    background-image: url(../images/pattern1.png);    
+    
+    background-color: #eaf8fd;
 }
 
 .paddingLeft{
@@ -427,12 +431,19 @@ div.scrollparent aside{
     height: 0px;
     padding-left: 0px;
     overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 
 .videoBorder{
 
     border-bottom: 1px solid #B0C8DA;
+}
+
+.borderTop{
+
+    border-top: 1px solid #B0C8DA;
+
 }
 
 
