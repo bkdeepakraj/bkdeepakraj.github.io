@@ -1,0 +1,130 @@
+
+<p>Websites and books I refer or read during my free time.</p>
+
+
+<div class="">
+
+<h3>Design Thinking</h3>
+
+
+<p> IDeo <a href="https://designthinking.ideo.com/" target="_blank"> https://designthinking.ideo.com/ </a> </p>
+
+<p> Design Thinking Playbook <a href="https://en.dt-toolbook.com/" target="_blank">en.dt-toolbook.com/</a> </p>
+
+Design Thinking Method (PDF Templates for download)
+<p> <a href="https://en.dt-toolbook.com/tools" target="_blank">en.dt-toolbook.com/tools</a> </p>
+
+</div>
+
+<div class="graybg">
+
+<h3>User Experience</h3>
+
+<p> <a href="https://www.smashingmagazine.com/category/user-experience" target="_blank">www.smashingmagazine.com/category/user-experience</a> </p>
+
+<p> <a href="https://www.nngroup.com/" target="_blank">www.nngroup.com/ </a> </p>
+
+<p> <a href="https://uxdesign.cc/" target="_blank">www.uxdesign.cc/ </a> </p>
+
+<p> <a href="https://www.lukew.com/" target="_blank">www.lukew.com/ </a> </p>
+
+<p> <a href="https://alistapart.com/" target="_blank">www.alistapart.com/ </a> </p>
+
+<p> <a href="https://www.udemy.com/" target="_blank">www.udemy.com/ </a> </p>
+
+<p> <a href="https://www.skillshare.com/" target="_blank">www.skillshare.com/ </a> </p>
+
+</h3>
+
+<div class="graybg">
+
+<h3>User Interface</h3>
+
+<p> <a href="https://www.smashingmagazine.com/category/ui" target="_blank">smashingmagazine.com/category/ui</a> </p>
+
+<p> <a href="https://ui-patterns.com/" target="_blank">ui-patterns.com/ </a> </p>
+
+<p> <a href="https://www.interaction-design.org/" target="_blank">interaction-design.org/ </a> </p>
+
+</div>
+
+
+<div class="graybg">
+
+
+<h3>Visual Design/Graphic Design</h3>
+
+<p> <a href="https://www.youtube.com/channel/UC64eec0UYHxflyEWgyZOvLA" target="_blank">Gareth Design Studio</a> </p>
+
+<p> <a href="https://www.amazon.com/Hello-Design-World-guidebook-developers-ebook/dp/B06XQRY9ST" target="_blank">Hello Design World</a> </p>
+
+<p> <a href="https://colorsupplyyy.com/ " target="_blank">colorsupplyyy.com</a> </p>
+
+<p> <a href="https://coolors.co/ " target="_blank">coolors.co</a> </p>
+
+<p> <a href="https://zerotomastery.io/resources/" target="_blank">zerotomastery.io/resources</a> </p>
+
+</div>
+
+<div class="graybg">
+
+<h3>Tools</h3>
+
+<p> <a href="https://uxtools.co/" target="_blank">uxtools.co</a> </p>
+
+<p> <a href="https://www.figma.com/" target="_blank">www.figma.com/ </a> </p>
+
+<p> <a href="https://www.adobe.com/in/products/xd.html" target="_blank">www.adobe.com/in/products </a> </p>
+
+<p> <a href="https://www.adobe.com/in/" target="_blank">www.adobe.com/in/</a> </p>
+
+<p> <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432" target="_blank">code.visualstudio.com</a> </p>
+
+<p> <a href="https://www.udemy.com/" target="_blank">www.udemy.com/ </a> </p>
+
+<p> <a href="https://www.skillshare.com/" target="_blank">skillshare.com/ </a> </p>
+
+</div>
+
+<div class="graybg">
+
+<h3>Books</h3>
+
+<h4>UX Books</h4>
+
+<p> <a href="https://www.amazon.in/Dont-Make-Think-Revisited-Usability/dp/9332542864/ref=pd_lpo_2?pd_rd_i=9332542864&psc=1 " target="_blank">Dont-Make-Think-Revisited-Usability</a> </p>
+
+<p> <a href="https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654 " target="_blank">Design-Of-Everyday-Things,Don-Norman</a> </p>
+
+<p> <a href="https://www.amazon.in/Information-Architecture-Beyond-Louis-Rosenfeld-ebook/dp/B015D78JV6/ref=sr_1_3?crid=1GAMQ6UJPVBW2&keywords=information+architecture&qid=1644492313&s=books&sprefix=information+architecture%2Cstripbooks%2C252&sr=1-3 " target="_blank">Information-Architecture, For web and Beyond</a> </p>
+
+<p> <a href="https://www.amazon.in/Things-Designer-People-Voices-Matter/dp/0136746918/ref=sr_1_1?keywords=100+things+every+designer+needs+to+know+about+people&qid=1644492339&s=books&sprefix=100+things%2Cstripbooks%2C280&sr=1-1 " target="_blank">100 things every designer needs to know about people</a> </p>
+
+</div>
+
+<div class="graybg">
+
+<h4>UI Books</h4>
+
+<p> <a href="https://www.amazon.in/Graphic-Design-Everyone-Understand-Building/dp/024134381X/ref=sr_1_2?crid=3OZBZMKR16LRN&keywords=graphic+design+for+everyone&qid=1644492251&s=books&sprefix=graphic+design+for+everyon%2Cstripbooks%2C283&sr=1-2" target="_blank">Graphic-Design-For-Everyone </a> </p>
+
+<p> <a href="https://www.amazon.in/Exploring-Interface-Design-Exploration/dp/1401837395/ref=sr_1_2?crid=92WDDD0A11UK&keywords=Exploring+Interface+Design&qid=1644492557&s=books&sprefix=%2Cstripbooks%2C990&sr=1-2 " target="_blank">Exploring-Interface-Design</a> </p>
+
+</div>
+
+<div class="graybg">
+
+<h3>Programming</h3>
+
+<p> <a href="https://www.w3schools.com/" target="_blank">www.w3schools.com/ </a> </p>
+
+<p> <a href="https://getbootstrap.com/" target="_blank">www.getbootstrap.com/ </a> </p>
+
+<p> <a href="https://zerotomastery.io/" target="_blank">www.zerotomastery.io/ </a> </p>
+
+<p> <a href="https://www.udemy.com/" target="_blank">www.udemy.com/ </a> </p>
+
+<p> <a href="https://www.skillshare.com/" target="_blank">www.skillshare.com/ </a> </p>
+
+</div>
+

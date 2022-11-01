@@ -1,0 +1,168 @@
+
+Usability is a measure of how well a specific user in a specific context can use a product/design to achieve a defined goal effectively, efficiently and satisfactorily. 
+
+
+
+1. What the hiring manager focuses on
+
+Your Process
+
+How you solved past problems
+
+Who you are, your personality
+
+If you want, and can do the job.
+
+
+
+2. Potential phases/activites
+
+Portfolio Presentation
+
+White Board challenge
+
+Product Critique Session
+
+Phone Screen
+
+Soft skill Assessment
+
+
+3. Questions you might be asked
+
+
+What is your UX Process?
+
+1) Identifying the requirements, attend kickoff product meetings.
+
+1.1) Identify and understand users’ needs and preferences regarding features of a product. Build Personas: a persona is created at the beginning of the process to have an example of a target, who you are trying to reach. the same patterns; behaviour, needs, goals, skills, attitudes, etc. Persona helps to make right decisions about product features, navigation, interactions, visual design and much more. It helps you prioritise the design work, understanding what the user needs and what functions are simply nice to add and have.
+
+2) Use cases (It is a series of steps for the User to achieve the goal.) based on the requirements and identify features of a product, goals, user flows.
+
+3) Information Arhitecture, Wireframe(low fedility to high fedility), Prototype and Visual Design
+
+
+How did you get into ux design? What they really want to know: How did you get into the field of UX? How did your journey through UX lead you here?
+
+I am Deepak Madhana Raj, In 2001 I started to learn graphic design and web design. And started as freelancer and created flyers, brochures and websites using html, css and photoshop. And landed a job in sify as Graphic Designer for their elearning division in 2003 and worked on e-learning courses. And then I moved to Digitalthink e-learning in hyderabad and worked as Media/Associate Web Designer and worked on e-learning courses and their intranet portal. Around 2006 I really started to the know UX Design process and importance of User Centered Design (designing based on user needs). Then I joined PayPal User Research Team 
+
+
+
+
+I started my career as Graphic Designer in Sify.
+
+
+
+“I hope I can show you how my background and approach to UX will make me a great addition to your team!”
+
+
+Describe a situation where you had to defend a design decision
+
+Every design decision is made after understanding the Business goals, Users needs, and research at which the design decision has been arrived with some thought process why its usable and not.
+
+So while talking to the stakeholders I will set 1) the clarity on defined business goals 2) Ask the client to reaffirm those goals 3) Present the work directly based on the goals and 4) Defend the project goals.
+
+These points will move the conversation away from who is right or wrong and re-focus both sides on the business goals the project aims to achieve.
+
+
+How would you decide which features to add to a product?
+
+Describe a challengin project, why was it difficult? your approach?
+
+how do you colloborate with product managers and developers?
+
+I am great team player, I build strong relationship with everyone with the team, Product Owners, QA and Developers. I like to build relationships and not approach project in authorative fashion. What I mean is there is constant communication between myself and development. I listen to their feedback and they listen to mine, listen to product owners feedback. Be open to get constructive feedback and so every one is on same page. And each developers have their own process so I like to understand how they like to work That's how I like to approach.
+
+how do you approach User Research in ux projects.
+
+How do you define User Experience?
+
+What's your favourite prodcut, design-wise? How can you improve it.
+
+
+    What is your design process?
+    How do you work with engineers/Product Managers/other designers?
+    What’s an example of great design (digital or physical)?
+    As a designer, what do they think is the most important aspect of their job?
+    When is it relevant to focus on one of these areas vs another?
+    Tell us a bit about how you undertake user testing?
+    How do you know that what you’re designing works for the user? Tell us a bit about personas and your approach to research and incorporating research in your work?
+    Describe your challenges as a UI designer?
+    How do you manage the difference with your UX designer?
+    What is the app you think with a bad UI design?
+    Give an example of a popular user interface and how will you redesign it?
+
+
+
+UCD
+
+User-centered design (UCD) is an iterative design process in which designers and other stakeholders focus on the users and their needs in each phase of the design process. UCD calls for involving users throughout the design process via a variety of research and design techniques so as to create highly usable and accessible products for them.
+
+User-centered design takes into account age, gender, social status, education and professional background, influential factors, product usage expectations and demands and many other important things that may vary for different segments. What is critical for some may be irrelevant for others. User-centered design is about deep research on users’ habits, from their interactions with the product to their vision of how the product should look like and behave
+
+User-centered design improves the user experience. While it can be applied to almost any product, in this article, we will focus on website or mobile app development. It helps to understand users’ needs and preferences regarding features of a product, task, goals, user flows, etc. At the end of the day, it has become one of the most important user experience requirements – that of being user-centered. It should be implemented throughout the entire customer experience, no guessing, no personal opinion. What matters is what your users say and do. Every “touchpoint” that the customer has with the product should be analysed, well design and developed.
+
+There are five major UCD principles
+
+A clear understanding of user and task requirements.
+Incorporating user feedback to define requirements and design.
+Early and active involvement of the user to evaluate the design of the product.
+Integrating user-centred design with other development activities.
+Iterative design process
+
+
+The Essential Elements of User-Centered Design
+
+Visibility: Users should be able to see from the beginning what they can do with the product, what is it about, how they can use it.
+Accessibility: Users should be able to find information easily and quickly. They should be offered various ways to find information for example call to action buttons, search option, menu, etc.
+Legibility: Text should be easy to read. As simple as that.
+Language: Short sentences are preferred here. The easier the phrase and the words, the better.
+
+
+Method			Cost		Output					Sample size		When to use
+Focus groups		Low		Non-statistical				Low			Requirements gathering
+Usability testing	High		Statistical and non-statistical		Low			Design and evaluation
+Card sorting		High		Statistical				High			Design
+Participatory design	Low		Non-statistical				Low			Design
+Questionnaires		Low		Statistical				High			Requirements gathering and evaluation
+Interviews		High		Non-statistical				Low			Requirements gathering and evaluation
+
+
+
+These users’ requirements are found and defined through methods like focus groups, usability testing, card sorting, participatory design, questionnaires and interviews. Typically the following areas are analysed to get a better idea of what your target users want:
+
+Persona: To visualise it better, a persona is created at the beginning of the process to have an example of a target, who you are trying to reach. You can even come up with the name. It is a representation of a particular group of people with the same patterns; behaviour, needs, goals, skills, attitudes, etc. Persona helps to make right decisions about product features, navigation, interactions, visual design and much more. It helps you prioritise the design work, understanding what the user needs and what functions are simply nice to add and have.
+Scenario: It is a “daily life of” your target, of your persona. It is about problems persona has. Here, small details both emotional and physical ones, matter.
+Use case: It is a series of steps for the persona to achieve the goal.
+
+
+
+4. Questions you should ask
+
+
+what is the current design process here?
+
+What is your product definition and mission?
+
+What is the team I will be working on?
+
+What initial project will I be working on?
+
+What are your current struggles?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
