@@ -766,6 +766,23 @@ padding: 30px;
   }
 
 
+ .more{
+    display: none;
+ }
+
+
+.showFunction{
+
+    color: #0000ff;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+
+
+
+
 /* ---------------------------media queries -----------------------------*/
 
 
@@ -873,9 +890,7 @@ padding: 30px;
     div.scrollparent aside{
         height: 40vh;
         padding-left: 10px;
-    }
-
-    
+    }    
 }
 
 
