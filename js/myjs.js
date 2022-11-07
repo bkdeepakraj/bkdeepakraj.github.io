@@ -87,8 +87,43 @@ var els = document.getElementsByTagName("iframe");
 });
 
 
+document.querySelectorAll('.showFunction').forEach (function(item) {
+  item.addEventListener('click', function() {
+    if(this.getAttribute('data-more') == 0) {
+      this.setAttribute('data-more', 1);
+      this.innerHTML = 'Read Less';
+  
+      this.previousElementSibling.style.display = 'block';		
+    }
+    // If text is shown complete, then show less
+    else if(this.getAttribute('data-more') == 1) {
+      this.setAttribute('data-more', 0);
+      this.innerHTML = 'Read More...';
+  
+      this.previousElementSibling.style.display = 'none';
+    }	
+  })
+})
 
 
+
+// document.querySelector('.showFunction').addEventListener('click', function() {
+// 	// If text is shown less, then show complete
+// 	if(this.getAttribute('data-more') == 0) {
+// 		this.setAttribute('data-more', 1);
+// 		this.innerHTML = 'Read Less';
+
+// 		this.previousElementSibling.style.display = 'block';		
+// 	}
+// 	// If text is shown complete, then show less
+// 	else if(this.getAttribute('data-more') == 1) {
+// 		this.setAttribute('data-more', 0);
+// 		this.innerHTML = 'Read More';
+
+// 		this.previousElementSibling.style.display = 'none';
+// 	}	
+  
+// });
 
 
 /*
