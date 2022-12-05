@@ -1,128 +1,77 @@
 
 
 body {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 400;
-    font-size: 1.08rem;
+    font-family: "Manrope", sans-serif;
+    font-weight: 500;
+    font-size: 1.05rem;
     line-height: 1.7;
-    color: #000;
-    background-color: #F7FCFF;
-
+    color: rgb(92, 92, 92);
 }
 
 .logotext{
-    font-family:'Space Grotesk', sans-serif;
-    font-weight:500;
-    font-size: 2rem;
-    color: #ffffff;
-    background-color: #6093E0;
-    padding: 10px;
+    font-family:"Staatliches", sans-serif;
+    font-weight:400;
+    font-size: 1.5rem;
+    color: #0061B5;
 }
 
-.portfolio{
-    font-family: 'IBM Plex Sans', sans-serif;
-    color: #fff;    
-    font-size: 1rem;
-    font-style: italic;
-    
-}
 
 .heroheadertxt{
-    font-family:'Space Grotesk', sans-serif;
-    font-weight:500;
-    color: #002D9F;
+    font-family:"Staatliches", sans-serif;
+    font-weight:400;
+
+    color: #737373;
 }
 
-.herosubtext{
-    font-family:'Space Grotesk', sans-serif;
-    font-size: 1.5rem;
+
+.navShortIntro{
+    font-family: "Manrope", sans-serif;
+    font-size: 15px;
+    line-height:0;
+    color:#242424;
+    border-bottom: 10px;
 }
 
-.contact:link{
-    text-decoration: none;
+.navbar-light .navbar-brand {
+    color: #0061B5;
 }
 
-.resumebutton{
-    font-family:'Space Grotesk', sans-serif;
-    background-color: #FD832B;
-    padding: 16px 40px;
-    border-radius: 0%;
-    border: none;
-    font-weight: 500;
-    font-size: 1.25rem;
+.bgabout{
 
+    background-color: #f5f5f5;
+    padding: 25px;
+}
+
+.imgme{
+    border-top-right-radius: 28px;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: "Staatliches", serif;
+    color: #666;
     font-weight: 400; 
-    line-height: 1.6;
 }
 
 .topheaderfill{
 
-    background-color: #5f27cd;
-    height: 10px;
+    background-color: #038094;
+    height: 7px;
 }
 
-.workColor {
-    background-color: #fae2b5;
-    }
 
-.workColor2 {
-   background-color: #fbefd9;
-  }
-
-  .uxprocessColor{
-    background-color: #DED6FF;
-    }
-
-.uxprocessColor2 {
-   background-color: #F1EDFF;
-  }
-
-  .hobbiesColor{
-    background-color: #9ceafa;
-    }
-
-.hobbiesColor2 {
-   background-color: #d0f6fc;
-  }
-
-  .blogColor{
-    background-color: #bcdcfc;
-    }
-
-.blogColor2 {
-   background-color: #deedfc;
-  }
-
-  .py-6{
-    padding-top: 5rem !important;
-    padding-bottom: 5rem !important;
-  }
-
-
-  .py-7{
-    padding-top: 5rem !important;
-    padding-bottom: 5rem !important;
-  }
 
 .footerfill{
 
-    background-color: #341f97;
+    background-color: #038094;
 }
 
-.navbar-expand-xl .navbar-nav .nav-link{
-    padding: 0 30px;
-}
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    font-family: 'JetBrains Mono', monospace;
+    font-family:"Staatliches", sans-serif;
     font-weight:400;
-    font-size: 1.25rem;
-    color: rgb(35, 35, 35);
+    font-size: 1.50rem;
+    color: #636060;
 }
 
 
@@ -289,14 +238,10 @@ a.emailContact{
     font-size: .85em !important;
 }
 
-.btn-outline-secondary:hover{
-    background-color: #ce9720;
-    border: 3px solid #ce9720;
-}
-
 
 .bg-light{
-    opacity: 0.95;
+    background-color: #fff !important;
+    opacity: 0.9;
 }
 
 .offcanvas-header .btn-close {
@@ -312,7 +257,7 @@ a.emailContact{
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #086878;
+    background-color: #043942;
     color: white;
     cursor: pointer;
     height: 40px;
@@ -337,7 +282,10 @@ div#footermenu ul.dropdown-menu{
 }
 
 
+.navbar{
 
+    border-bottom: 1px solid #e2e2e2;
+}
 
 
 .nav-tabs .nav-link.active {
@@ -481,16 +429,16 @@ main {
     background-color:#f7f7ff;
 }
 
-.breadcrumb-item.active {
-    color: #122230;
-  }
+
+
+
 
 /* url(../images/pattern1.png) */
 
 .paypalLogo, .wiproLogo, .mphasisLogo, .capstoneLogo{
 
     
-    background-color: #f8ead1;
+    background-color: #E4F5FC;
     background-position:1300px 14px, top center;
     background-repeat: no-repeat, repeat-x;
     background-size: 236px 86px, 1920px 301px;
@@ -677,7 +625,6 @@ div.labs1 a:link {
 
 .card {
     border: 0 !important;
-    background-color: #FFF7F7;
 }
 
 a.link-dark {
@@ -727,59 +674,12 @@ a.link-dark {
     display: block;
 }
 
-
-.card-body {
-
-padding: 30px;
-
-  }
-
-
-
-/* .card:hover{
-    -ms-transform: scale(1.05); 
-    -webkit-transform: scale(1.05); 
+.card:hover{
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
     transform: scale(1.1); 
     
-  } */
-
-  .img-fluid-resize{
-    width:76%;
-    height:auto;
-    display: block;
   }
-
-  .btn-outline-secondary{
-    font-family: 'Space Grotesk', sans-serif;
-    border: 3px solid #ce9720;
-    padding: 10px 0;
-    border-radius: 0%;
-    font-weight: 500;
-    font-size: 1.15rem;
-    color: #ce9720;
-  }
-
-  .noteText{
-    font-family: 'JetBrains Mono', monospace;
-    font-style: italic;
-    font-size: 16px;;
-  }
-
-
- .more{
-    display: none;
- }
-
-
-.showFunction{
-
-    color: #0000ff;
-    font-weight: bold;
-    cursor: pointer;
-
-}
-
-
 
 
 
@@ -813,24 +713,8 @@ padding: 30px;
 
 @media (min-width: 0) and (max-width: 575.98px) {
 
-    .heroheadertxt{
-        font-size: 1.45rem;
-    }
-    
-    .herosubtext,  .resumebutton{
-        font-size: 1.20rem;
-    }
-
-    .resumebutton {
-        padding: 10px 20px;
-    }
-
-    .textSmCenter {
-        text-align: center;
-    }
-
     body {
-        font-size: 1rem;
+        font-size: .95rem;
     }
 
     .font-70 {
@@ -862,6 +746,7 @@ padding: 30px;
     }
 
 
+
     .img-fluid-reduce {
             width: 28%;
             height: 14%;
@@ -890,7 +775,9 @@ padding: 30px;
     div.scrollparent aside{
         height: 40vh;
         padding-left: 10px;
-    }    
+    }
+
+    
 }
 
 
@@ -899,10 +786,6 @@ padding: 30px;
 
     body {
         font-size: .95rem;
-    }
-
-    .textSmCenter {
-        text-align: center;
     }
 
     .font-70 {
