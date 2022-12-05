@@ -3,7 +3,7 @@
 body {
     font-family: "Manrope", sans-serif;
     font-weight: 500;
-    font-size: 1.05rem;
+    font-size: 1.15rem;
     line-height: 1.7;
     color: rgb(92, 92, 92);
 }
@@ -31,6 +31,13 @@ body {
     color:#242424;
     border-bottom: 10px;
 }
+
+.blogIntro{
+	font-family: "Manrope", sans-serif;
+	font-size: 20px;
+	line-height: 1.7;
+}
+
 
 .navbar-light .navbar-brand {
     color: #0061B5;
@@ -670,16 +677,16 @@ a.link-dark {
 }
 
 
-.card:hover .card-overlay{
+/*.card:hover .card-overlay{
     display: block;
 }
 
 .card:hover{
-    -ms-transform: scale(1.05); /* IE 9 */
-    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    -ms-transform: scale(1.05); 
+    -webkit-transform: scale(1.05); 
     transform: scale(1.1); 
     
-  }
+  }*/
 
 
 
