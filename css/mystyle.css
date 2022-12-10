@@ -295,40 +295,34 @@ div#footermenu ul.dropdown-menu{
 }
 
 
+
 .nav-tabs .nav-link.active {
-
--webkit-box-shadow: -1px -4px 3px 0px rgba(0,0,0,0.14);
--moz-box-shadow: -1px -4px 3px 0px rgba(0,0,0,0.14);
-box-shadow: -1px -4px 3px 0px rgba(0,0,0,0.14);
-padding: .5rem .5rem;
-}
-
-ul#myTab li.nav-item button.nav-link span{
+  color: #00879d;
+  background-color: transparent;
+  border-color: #dee2e6 #dee2e6 #fafafa;
 	
-	color: #415e70;
-	font-weight: 700;
-    border: none;
-    display: inline-block;
-    width: -webkit-fit-content;
-    width: -moz-fit-content;
-    width: fit-content;
-    margin: 0 auto;
-}
-
-ul#myTab li.nav-item button.active span{
+	border: 0;
 	
-	color: #415e70;
-	font-weight: 800;
-    text-decoration: none;
-    border: none;
-    margin: 0 auto;
+    border-bottom-color: rgb(250, 250, 250);
+  border-bottom: 2px solid #00879d;
 }
 
 
-.nav-tabs, .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
 
-    border: none;
-    padding: .5rem .5rem;
+.nav-link:focus, .nav-link:hover {
+  text-decoration: none;
+}
+
+
+.nav-link:hover {
+  border: 0 
+}
+
+.nav-tabs .nav-link{
+	
+	color: #909090;
+	margin: 0 15px;
+	padding:0 0 5px 0;
 }
 
 
