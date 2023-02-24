@@ -44,6 +44,8 @@ body{
 	color: #444;
 
 	line-height: 1.6;
+
+	
 }
 
 .bg-dark{
@@ -183,10 +185,86 @@ div#navLeft {
 
 #offcanvasNavbar.offcanvas{
 
-	background-color: #0984e3; !important;
+	background-color: #0984e3 !important;
 	text-align: center;
 
 }
+
+#myBtn {
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	font-size: 18px;
+	border: none;
+	outline: none;
+	background-color: rgb(28, 88, 148);
+	color: white;
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+	background-color: #555;
+  }
+
+
+  .d-blockyes{
+	display: none;
+}
+
+
+.img1{
+		width: 100%;
+		height: 500px;
+		background-image: url('../images/wireframe.png');
+		background-size: cover;
+}
+
+.img2{
+	width: 100%;
+	height: 500px;
+	background-image: url('../images/7_prototype.png');
+	background-size: cover;
+}
+
+
+.info {
+	position: absolute;
+	padding: 10px;
+	left: 355px;
+	top: 30px;
+	color: #333;
+	user-select: none;
+	font-weight: bold;
+	text-shadow:
+	  -1px -1px 0 rgba(255,255,255,0.5),
+	  1px -1px 0 rgba(255,255,255,0.5),
+	  -1px 1px 0 rgba(255,255,255,0.5),
+	  1px 1px 0 rgba(255,255,255,0.5);
+	  z-index: 1020;
+  }
+
+
+  p.panimage {
+	overflow: hidden;
+	width:100%;
+	height:850px;
+  }
+
+
+  .positionImg {
+	/* object-position: -300px -300px; */
+	overflow: hidden;
+	object-fit: cover;
+	width: 100%;
+    height: 850px;
+	scale: 2.5;
+  }
+
+
 
 
 
@@ -201,8 +279,8 @@ div#navLeft {
 		font-size: 28px
 	}
 	
-	.d-inline{
-		display: inline !important;
+	.d-blockyes{
+		display: inline-block;
 	}
 	
 
@@ -243,11 +321,53 @@ div#navLeft {
 
 
 
-
-
-@media (min-width: 768px) and (max-width: 1199.98px)
+@media (min-width: 768px) and (max-width: 992px)
 
 {
+	.d-blockyes{
+		display: inline-block
+	}
+
+	div#navLeft {
+		display:none;
+	  }
+	
+	  div#contentRight{
+	
+		width: 100%;	
+	  }
+	
+	  section.hideInfo{
+
+		display:block;
+		margin-top: 66px;
+
+  }
+
+   .spaceTop{
+	margin-top: 0px;
+}
+
+.linkweb{
+
+	font-size: 20px;
+
+}
+
+}
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px)
+
+{
+
+	.d-blockyes{
+		display: none
+	}
 
 	.tagline{
 		width:100%;
